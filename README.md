@@ -42,6 +42,7 @@ Web application that simplifies billing and inventory management for internet se
   - Automatically generate monthly bills based on the user's package end date.  
   - Authentication system with role-based access control  
 - **Tech Stack:** PHP, MySQL, JavaScript, OOP.  
+
 ---
 
 ## 📈 GitHub Stats    
