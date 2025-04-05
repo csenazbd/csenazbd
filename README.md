@@ -1,5 +1,10 @@
 ## Welcome to Muhammad Nazmul Huda's GitHub Profile 👋
 
+## Full-Stack Software Developer
+
+   Hi, I'm a passionate Full-Stack Software Developer proficient in PHP, Python and JavaScript, with expertise in platform integration, server optimization, and crafting solutions to 
+   enhance user experiences. My goal is to leverage technology to streamline operations and drive revenue growth.
+   
 <!--
 **csenazbd/csenazbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
