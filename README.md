@@ -50,3 +50,11 @@ Web application that simplifies billing and inventory management for internet se
 
 ## ❤ Views and Followers  
 ![Profile Views](https://komarev.com/ghpvc/?username=csenazbd) ![Followers](https://img.shields.io/github/followers/csenazbd?label=Followers&style=social) 
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=asif2305&icon=0&color=0)](https://visitcount.itsvg.in)
