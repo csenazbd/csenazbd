@@ -24,18 +24,9 @@ Hi, I’m Muhammad Nazmul Huda **Senior Software Developer (Team Lead)** with 9+
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Project 
 
-### [Express-controller-set](https://www.npmjs.com/package/express-controller-sets)  
-Powerful Node.js package to reduce code duplication and enhance development speed:  
-
-- **Features:**  
-  - Class-based controllers for streamlined workflows.  
-  - Seamless file uploads via S3 API.  
-  - Ready-to-use routes with minimal setup.  
-- **Tech Stack:** JavaScript, Node.js, Express.js, OOP.  
-
-### [ISP Billing System](https://github.com/csenazbd/isp-billing-management)
+### [ERP-ISP Billing System](https://github.com/csenazbd/isp-billing-management)
 Web application that simplifies billing and inventory management for internet service providers. Automates bill collection, inventory tracking, and management.:  
 
 - **Features:**  
