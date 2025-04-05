@@ -45,8 +45,10 @@ Web application that simplifies billing and inventory management for internet se
 
 ---
 
-## 📈 GitHub Stats    
-<a href="https://github.com/csenazbd/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csenazbd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=csenazbd&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=csenazbd&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=csenazbd&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
